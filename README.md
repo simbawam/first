@@ -1,2 +1,3 @@
 # first
-my first repository
+my first repositor
+say hai 
